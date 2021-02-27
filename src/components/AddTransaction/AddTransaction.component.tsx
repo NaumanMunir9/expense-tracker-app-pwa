@@ -1,4 +1,5 @@
 import React from "react";
+import "./AddTransaction.styles.scss";
 
 const AddTransaction = () => {
   return (
